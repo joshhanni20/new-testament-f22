@@ -1,24 +1,24 @@
 // Placeholder to allow overriding predefined variables smoothly.
-$lm-brand-color:           #3c3081 !default;
-$lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
-$lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+$lm-brand-color:           #3c3081;
+$lm-brand-color-light:     lighten($lm-brand-color, 40%);
+$lm-brand-color-dark:      darken($lm-brand-color, 25%);
 
-$lm-site-title-color:      $lm-brand-color-dark !default;
+$lm-site-title-color:      $lm-brand-color-dark;
 
-$lm-text-color:            #ad0606 !default;
-$lm-background-color:      #cfdf42 !default;
-$lm-code-background-color: #e729ce !default;
+$lm-text-color:            #ad0606;
+$lm-background-color:      #cfdf42;
+$lm-code-background-color: #e729ce;
 
-$lm-link-base-color:       #2c71cc !default;
-$lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
-$lm-link-hover-color:      $lm-text-color !default;
+$lm-link-base-color:       #2c71cc;
+$lm-link-visited-color:    darken($lm-link-base-color, 15%);
+$lm-link-hover-color:      $lm-text-color;
 
-$lm-border-color-01:       $lm-brand-color-light !default;
-$lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
-$lm-border-color-03:       $lm-brand-color-dark !default;
+$lm-border-color-01:       $lm-brand-color-light;
+$lm-border-color-02:       lighten($lm-brand-color, 35%);
+$lm-border-color-03:       $lm-brand-color-dark;
 
-$lm-table-text-color:      lighten($lm-text-color, 18%) !default;
-$lm-table-zebra-color:     lighten($lm-brand-color, 46%) !default;
-$lm-table-header-bg-color: lighten($lm-brand-color, 43%) !default;
-$lm-table-header-border:   lighten($lm-brand-color, 37%) !default;
-$lm-table-border-color:    $lm-border-color-01 !default;
+$lm-table-text-color:      lighten($lm-text-color, 18%);
+$lm-table-zebra-color:     lighten($lm-brand-color, 46%);
+$lm-table-header-bg-color: lighten($lm-brand-color, 43%);
+$lm-table-header-border:   lighten($lm-brand-color, 37%);
+$lm-table-border-color:    $lm-border-color-01;
