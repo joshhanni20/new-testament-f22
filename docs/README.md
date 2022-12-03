@@ -1,1 +1,4 @@
-# Welcome to Religion A 211!
+---
+title: Welcome to Religion A 211!
+layout: page
+---
